@@ -1,5 +1,8 @@
 # 🤖 Aspiring AI/ML Engineer | LLMs | Agentic AI | Deep Learning | Full-Stack Development
 
+<img width="612" height="758" alt="github-profile-md-banner" src="https://github.com/user-attachments/assets/075f0b53-27c8-4050-9435-1c37da855e8e" />
+
+
 Passionate about building intelligent systems and exploring the intersection of AI and software engineering. I enjoy learning by building, experimenting with emerging technologies, and turning ideas into practical, real-world solutions.
 
 Currently focused on AI/ML, with hands-on interests in Machine Learning, Deep Learning, Large Language Models, Generative AI, Agentic AI, and Multi-Agent Systems. My strong foundation in full-stack development helps me build and deploy AI-powered applications end-to-end.

@@ -7,21 +7,21 @@ Currently focused on AI/ML, with hands-on interests in Machine Learning, Deep Le
 <img width="400" height="500" alt="github-profile-md-banner" src="https://github.com/user-attachments/assets/075f0b53-27c8-4050-9435-1c37da855e8e" />
 
 ## 🔹 AI/ML Interests
-- ✔️ Machine Learning & Deep Learning
-- ✔️ Large Language Models (LLMs) & Generative AI
-- ✔️ Agentic AI & Multi-Agent Systems
-- ✔️ AI-powered automation & intelligent workflows
-- ✔️ Model development, evaluation & optimization
-- ✔️ MLOps, deployment & scalable AI systems
+- Machine Learning & Deep Learning
+- Large Language Models (LLMs) & Generative AI
+- Agentic AI & Multi-Agent Systems
+- AI-powered automation & intelligent workflows
+- Model development, evaluation & optimization
+- MLOps, deployment & scalable AI systems
 
 ## 🔹 Full-Stack Engineering
-- ✔️ Next.js, React, Node.js & Express
-- ✔️ REST APIs, WebSockets & Socket.IO
-- ✔️ MongoDB, PostgreSQL & Prisma
-- ✔️ Secure authentication & API integrations
-- ✔️ Scalable, modular & maintainable architectures
-- ✔️ Interactive dashboards and modern UI/UX
-- ✔️ Python for ML, automation, scripting & data processing
+- Next.js, React, Node.js & Express
+- REST APIs, WebSockets & Socket.IO
+- MongoDB, PostgreSQL & Prisma
+- Secure authentication & API integrations
+- Scalable, modular & maintainable architectures
+- Interactive dashboards and modern UI/UX
+- Python for ML, automation, scripting & data processing
 
 ## 🔹 Featured Work
 - 🚀 **ExploreInn** — A next-generation hotel booking platform with dynamic pricing, AI-powered recommendations, real-time updates, and dashboards for travelers and hotel managers.
